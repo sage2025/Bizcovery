@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738867196491",
+    "project_id": "bizcovery-62056",
+    "storage_bucket": "bizcovery-62056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738867196491:android:c20d63f70667e0602713ce",
+        "android_client_info": {
+          "package_name": "com.bizcovery.bizcoveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738867196491-g12il1cqfi25dr51jjp0o3s5p7qhp0ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYXmmcBVWxSlbJJsgkWqpeoMVsiRhdMe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738867196491-g12il1cqfi25dr51jjp0o3s5p7qhp0ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
